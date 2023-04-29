@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "srbench-competition-2023-track-2-c-bio-ufpr"
+version = "0.1.0"
+description = ""
+authors = ["martins6 <adrielfalcao@gmail.com>"]
+readme = "README.md"
+packages = [{include = "srbench_competition_2023_track_2_c_bio_ufpr"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pandas = "^2.0.1"
+numpy = "^1.24.3"
+seaborn = "^0.12.2"
+matplotlib = "^3.7.1"
+torch = "^2.0.0"
+torchvision = "^0.15.1"
+torchaudio = "^2.0.1"
+torch-geometric = "^2.3.1"
+jupyter = "^1.0.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
