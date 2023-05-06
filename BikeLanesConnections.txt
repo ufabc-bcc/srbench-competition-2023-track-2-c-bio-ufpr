@@ -1,0 +1,27 @@
+Berri1 <-> Rachel / Papineau
+Berri1 <-> Maisonneuve_2
+Berri1 <-> Viger
+Berri1 <-> René-Lévesque
+Berri1 <-> Notre-Dame
+Berri1 <-> Saint-Antoine
+Berri1 <-> Maisonneuve_3
+Berri1 <-> Totem_Laurier
+Boyer <-> Rachel / Hôtel de Ville
+Boyer <-> Rachel / Papineau
+Brébeuf <-> PierDup
+CSC (Côte Sainte-Catherine) <-> Saint-Urbain
+Maisonneuve_2 <-> Rachel / Papineau
+Maisonneuve_2 <-> Rachel / Hôtel de Ville
+Maisonneuve_2 <-> Saint-Urbain
+Maisonneuve_2 <-> University
+Maisonneuve_3 <-> Notre-Dame
+Maisonneuve_3 <-> Viger
+Maisonneuve_3 <-> René-Lévesque
+Notre-Dame <-> Saint-Antoine
+Parc <-> Saint-Urbain
+PierDup <-> Rachel / Hôtel de Ville
+Rachel / Hôtel de Ville <-> Rachel / Papineau
+Rachel / Hôtel de Ville <-> Saint-Urbain
+Rachel / Hôtel de Ville <-> University
+Rachel / Papineau <-> Saint-Antoine
+René-Lévesque <-> Viger
