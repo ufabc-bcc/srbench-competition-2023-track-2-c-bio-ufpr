@@ -1212,7 +1212,7 @@ triton = ["triton"]
 
 [package.source]
 type = "url"
-url = "https://data.pyg.org/whl/torch-2.0.0%2Bcpu/pyg_lib-0.2.0%2Bpt20-cp311-cp311-macosx_10_15_universal2.whl"
+url = "https://data.pyg.org/whl/torch-2.0.0%2Bcpu/pyg_lib-0.2.0%2Bpt20-cp39-cp39-macosx_10_15_x86_64.whl"
 
 [[package]]
 name = "pygments"
@@ -1819,7 +1819,7 @@ python-versions = ">=3.7"
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.10"
-content-hash = "82dad0f7cb761301bc1cda02a3d5410fc89a15aad095cc0029b9c1c85b9bf6ac"
+content-hash = "1ca4d92b1e732b004acfded10fb78965d3f50bb5893e889f3e6337cbf777417e"
 
 [metadata.files]
 anyio = [
