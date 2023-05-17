@@ -4,7 +4,6 @@ version = "0.1.0"
 description = ""
 authors = ["martins6 <adrielfalcao@gmail.com>"]
 readme = "README.md"
-packages = [{include = "srbench_competition_2023_track_2_c_bio_ufpr"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
@@ -12,13 +11,28 @@ pandas = "^2.0.1"
 numpy = "^1.24.3"
 seaborn = "^0.12.2"
 matplotlib = "^3.7.1"
-torch = "^2.0.0"
-torchvision = "^0.15.1"
-torchaudio = "^2.0.1"
-torch-geometric = "^2.3.1"
 jupyter = "^1.0.0"
 tqdm = "^4.65.0"
+torch-geometric = "^2.3.1"
+pyg-lib = {version = "^0.2.0+pt20cpu", source = "pyg-lib"}
+torch-scatter = {version = "^2.1.1+pt20cpu", source = "pyg-lib"}
+torch-sparse = {version = "^0.6.17+pt20cpu", source = "pyg-lib"}
+torch-cluster = {version = "^1.6.1+pt20cpu", source = "pyg-lib"}
+torch-spline-conv = {version = "^1.2.2+pt20cpu", source = "pyg-lib"}
 
+
+[[tool.poetry.source]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+default = false
+secondary = true
+
+
+[[tool.poetry.source]]
+name = "pyg-lib"
+url = "https://data.pyg.org/whl/torch-2.0.0+cpu.html"
+default = false
+secondary = true
 
 [build-system]
 requires = ["poetry-core"]
