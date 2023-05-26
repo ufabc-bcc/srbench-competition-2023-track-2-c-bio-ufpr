@@ -6,8 +6,8 @@ Berri1 <-> Notre-Dame
 Berri1 <-> Saint-Antoine
 Berri1 <-> Maisonneuve_3
 Berri1 <-> Totem_Laurier
+Boyer <-> Parc
 Boyer <-> Rachel / Hôtel de Ville
-Boyer <-> Rachel / Papineau
 Brébeuf <-> PierDup
 CSC (Côte Sainte-Catherine) <-> Saint-Urbain
 Maisonneuve_2 <-> Rachel / Papineau
@@ -18,10 +18,15 @@ Maisonneuve_3 <-> Notre-Dame
 Maisonneuve_3 <-> Viger
 Maisonneuve_3 <-> René-Lévesque
 Notre-Dame <-> Saint-Antoine
+Parc <-> Parc U-Zelt Test
 Parc <-> Saint-Urbain
 PierDup <-> Rachel / Hôtel de Ville
+PierDup <-> Pont_Jacques_Cartier
 Rachel / Hôtel de Ville <-> Rachel / Papineau
 Rachel / Hôtel de Ville <-> Saint-Urbain
 Rachel / Hôtel de Ville <-> University
 Rachel / Papineau <-> Saint-Antoine
 René-Lévesque <-> Viger
+Saint-Antoine <-> Saint-Laurent U-Zelt Test
+Saint-Laurent U-Zelt Test <-> Saint-Urbain
+Totem_Laurier <-> University
